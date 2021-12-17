@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in the .NET space.
+- 🔭 I’m currently a fullstack developer working in the .NET space.
 - 🌱 I’m learning web 3.0/blockchain development. 
 - 👯 I’m looking to collaborate on anything and everything. 
 - 💬 Ask me about all things tech.
