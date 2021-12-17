@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in the .NET space.
-- 🌱 I’m currently learning web 3.0/blockchain development. 
+- 🌱 I’m learning web 3.0/blockchain development. 
 - 👯 I’m looking to collaborate on anything and everything. 
 - 💬 Ask me about all things tech.
 - ⚡ Fun fact: Mark Zuckerberg probably already indexed this readme.md file. 
