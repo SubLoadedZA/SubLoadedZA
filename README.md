@@ -1,6 +1,6 @@
 Hi there 👋
 
-💼 I am a Software Engineer with 8+ years of experience with enterprise level software, industry standards, design and architectural patterns.
+💼 I'm a Software Engineer with 8+ years of experience with enterprise level software, industry standards, design and architectural patterns.
 
 💻 Fullstack developer with expertise in .NET & Node. Focused & Specialized in Backend Development.
 
