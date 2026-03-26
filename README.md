@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ)</br>
+<!--![MasterHead](https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ)</br> -->
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hi,+I'm+Naman%F0%9F%91%8B;Nice+to+meet+you&#x1F64B" alt="Hi, I'm Naman"></div>
 <h3 align="center">A passionate Back-End Engineer from South Africa</h3>
 <p align="center">
