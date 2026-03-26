@@ -9,10 +9,6 @@
 </p>
 <h4 align="center"><i>"If data is the new oil, then privacy is the new environmentalism" </i></h4>
 
-
-- 💬 Focus: **.NET**
-- 🔗 Experienced in web3/blockchain development.
-- 🌐 Currently exploring microservices communications using gRPC and Go.
 - 📝 Buy my handguide book on <a href="https://www.amazon.com/dp/B0C5XBZXKH/ref=sr_1_2?qid=1684750399&refinements=p_27%3ANaman+Singh&s=books&sr=1-2">Amazon</a>
 - 🏢  More about <a href="https://www.namansingh.co.za">Me</a>
 
