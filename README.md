@@ -5,7 +5,7 @@
     I'm a <b>Tech Enthusiast</b> , <b>Back-End Engineer</b> and <b>Entrepreneur</b>. I have a passion for Software Development, Architecture and Design, and I'm a huge believer in privacy, along side, using the power of technology to reach greater heights. 
 </p>
 <p align="center">
-    I currently hold <b>10</b> years of experience with enterprise level software, industry standards, design and architectural patterns.
+    I currently hold <b>11+</b> years of experience with enterprise level software, industry standards, design and architectural patterns.
 </p>
 <h4 align="center"><i>"If data is the new oil, then privacy is the new environmentalism" </i></h4>
 
